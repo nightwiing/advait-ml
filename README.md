@@ -1,6 +1,6 @@
 # Advait-LM
 
-This is a tiny language model I created out of curiosity to see how lanugage models actually work, well this is just a tip of tip of the ice-berg but it's good starting point to understand how things actually work. Well this LM generate gibberish output obviously but still a good starting point just like learning ABCD.
+This is a tiny language model, I created out of curiosity to see how lanugage models actually work, well this is just a tip of tip of the ice-berg but it's good starting point to understand how things actually work. Well this LM generate gibberish output obviously but still a good starting point just like learning ABCD.
 
 ## What's Inside? (The Code Blocks)
 
