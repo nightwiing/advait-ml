@@ -77,3 +77,9 @@ If you are curios enough then give it a try with your own text file, 15k to 20k 
 - **Play with the "Vibe" (Temperature):** When running `generate.py`, try changing the `--temperature`.
   - A high temperature (like `1.2`) makes the model super chaotic and "creative," which often means funny typos and nonsense!
   - A lower temperature (like `0.2`) makes it super strict and confident, but it might get stuck repeating the exact same words over and over.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
